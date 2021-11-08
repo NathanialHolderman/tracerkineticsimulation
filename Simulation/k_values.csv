@@ -1,0 +1,52 @@
+LabelName,k1,k2,k3,k4
+Caudal Anterior Cingulate,0.333,0.016243902,0.1,0.5
+Caudal Middle Frontal,0.308,0.016470588,0.1,0.5
+Cuneus,0.3,0.016666667,0.1,0.5
+Entorhinal,0.3,0.016666667,0.1,0.5
+Fusiform,0.3,0.016666667,0.1,0.5
+Inferior Parietal,0.348,0.017664975,0.1,0.5
+Inferior temporal,0.333,0.015857143,0.1,0.5
+Isthmus Cingulate,0.3,0.016666667,0.1,0.5
+Lateral Occipital,0.359,0.018505155,0.1,0.5
+Lateral Orbitofrontal,0.354,0.018829787,0.1,0.5
+Lingual,0.3,0.016666667,0.1,0.5
+Medial Orbitofrontal,0.354,0.018829787,0.1,0.5
+Middle Temporal,0.333,0.015857143,0.1,0.5
+Parahippocampal,0.3,0.016666667,0.1,0.5
+Paracentral,0.3,0.016666667,0.1,0.5
+Pars Opercularis,0.3,0.016666667,0.1,0.5
+Pars Orbitalis,0.3,0.016666667,0.1,0.5
+Pars Triangularis,0.3,0.016666667,0.1,0.5
+Pericalcarine,0.3,0.016666667,0.1,0.5
+Postcentral,0.3,0.016666667,0.1,0.5
+Posterior Cingulate,0.303,0.021489362,0.1,0.5
+Precentral,0.3,0.016666667,0.1,0.5
+Precuneus,0.3,0.016666667,0.1,0.5
+Rostral Anterior Cingulate,0.333,0.016243902,0.1,0.5
+Rostral Middle Frontal,0.354,0.018829787,0.1,0.5
+Superior Frontal,0.354,0.018829787,0.1,0.5
+Superior Parietal,0.348,0.017664975,0.1,0.5
+Superior Temporal,0.333,0.015857143,0.1,0.5
+Supramarginal,0.3,0.016666667,0.1,0.5
+Transverse Temporal,0.333,0.015857143,0.1,0.5
+Insula,0.336,0.016153846,0.1,0.5
+Brainstem,0.3,0.016666667,0.1,0.5
+Third Ventricle,0.3,0.016666667,0.1,0.5
+Fourth Ventricle,0.3,0.016666667,0.1,0.5
+Optic Chiasm,0.3,0.016666667,0.1,0.5
+Lateral Ventricle,0.3,0.016666667,0.1,0.5
+Inferior Lateral Ventricle,0.3,0.016666667,0.1,0.5
+Cerebellum Gray Matter,0.3,0.020689655,0.1,0.5
+Cerebellum White Matter,0.3,0.020689655,0.1,0.5
+Thalamus,0.352,0.022709677,0.1,0.5
+Caudate,0.308,0.016470588,0.1,0.5
+Putamen,0.387,0.017276786,0.1,0.5
+Pallidum,0.3,0.016666667,0.1,0.5
+Hippocampus,0.237,0.016690141,0.1,0.5
+Amygdala,0.237,0.012091837,0.1,0.5
+Accumbens Area,0.3,0.016666667,0.1,0.5
+Ventral Diencephalon,0.3,0.016666667,0.1,0.5
+Basal Forebrain,0.3,0.016666667,0.1,0.5
+Vermal lobules I-V,0.3,0.016666667,0.1,0.5
+Vermal lobules VI-VII,0.3,0.016666667,0.1,0.5
+Vermal lobules VIII-X,0.3,0.016666667,0.1,0.5
